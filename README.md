@@ -310,5 +310,5 @@ This project was developed collaboratively by the Hórus Tech team.
 **Denise Gomes Paulo**  
 AWS Certified Cloud Practitioner | AWS re/Start Graduate | Cloud and Data Analytics Enthusiast
 
-[LinkedIn](ADD_YOUR_LINKEDIN_URL_HERE)  
+[LinkedIn](https://www.linkedin.com/in/denisengdados/)  
 [GitHub](https://github.com/denisegpaulo)
