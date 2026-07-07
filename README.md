@@ -52,14 +52,6 @@ The core implementation uses **Terraform** to provision AWS resources and deploy
 
 ---
 
-## Web Application
-
-The project includes a web application created to demonstrate the proposed cloud infrastructure and validate high availability and auto scaling behavior.
-
-![Web Application](./assets/images/web-application.png)
-
----
-
 ## Implemented Architecture
 
 The implemented version of the project focused on the core infrastructure required to host and scale the application.
