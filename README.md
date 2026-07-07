@@ -246,16 +246,6 @@ Auto Scaling helps reduce overprovisioning by adjusting resources according to a
 
 ---
 
-## Explore the Project
-
-- [Architecture Overview](./docs/architecture.md)
-- [My Contributions](./docs/my-contributions.md)
-- [Stress Test and Auto Scaling Validation](./docs/stress-test.md)
-- [Cost Optimization Strategy](./docs/cost-optimization.md)
-- [Future Improvement Recommendations](./docs/future-improvements.md)
-
----
-
 ## Key Skills Demonstrated
 
 - AWS Cloud Architecture
@@ -302,6 +292,15 @@ This project was developed collaboratively by the Hórus Tech team.
 | Denise | Developer |
 | Jessica | Developer |
 | Mirele | Scrum Master |
+
+---
+## Explore the Project
+
+- [Architecture Overview](./docs/architecture.md)
+- [My Contributions](./docs/my-contributions.md)
+- [Stress Test and Auto Scaling Validation](./docs/stress-test.md)
+- [Cost Optimization Strategy](./docs/cost-optimization.md)
+- [Future Improvement Recommendations](./docs/future-improvements.md)
 
 ---
 
